@@ -1,0 +1,111 @@
+.content {
+    max-width :40rem;
+    margin: 4rem auto;
+    background-color: rgb(177, 204, 249);
+    padding: 2rem;
+    border-radius: 15px;
+
+}
+
+.long-text{
+   max-height: 0;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.expanded {
+    max-height: 50rem;
+    margin-top: 5px ;
+    display: flex;
+    align-items: center;
+    justify-content:start ;
+    margin: 5px 0;
+    font-size: 18px;
+}
+.cardHeading{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    margin: 5px 0;
+    font-size: 24px;
+}
+
+.card-desc{
+    display: flex;
+    align-items: center;
+    justify-content:start ;
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+.card-desc1{
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+   font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.cardButtons{
+    display: flex;
+    align-items:center;
+    
+}
+.knowMore{
+    margin-right: 10px;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    padding: 2px 16px;
+    height: 30px;
+    min-width: 50px;
+    min-height: 35px;
+    border: none;
+    color: #fff;
+    background-color: rgb(88, 101, 242);
+    transition: background-color .17s ease,color .17s ease;
+   
+}
+
+.knowMore:hover {
+    background-color: rgb(71, 82, 196);
+}
+
+.readMore
+{
+    margin-right: 10px;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    padding: 2px 16px;
+    height: 30px;
+    min-width: 50px;
+    min-height: 35px;
+    border: none;
+    color: #fff;
+    background-color: rgb(88, 101, 242);
+    transition: background-color .17s ease,color .17s ease;
+    transition-delay: 1s;
+   
+}
+.readMore:hover {
+    background-color: rgb(71, 82, 196);
+    
+    transition: 1s;
+      
+        
+}
+
+.tick{
+    margin-right: 3px;;
+}
