@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sample_card_design/static/css/main.aceac212.css",
+    "main.js": "/sample_card_design/static/js/main.5f267bb5.js",
+    "static/js/787.142da1d4.chunk.js": "/sample_card_design/static/js/787.142da1d4.chunk.js",
+    "index.html": "/sample_card_design/index.html",
+    "main.aceac212.css.map": "/sample_card_design/static/css/main.aceac212.css.map",
+    "main.5f267bb5.js.map": "/sample_card_design/static/js/main.5f267bb5.js.map",
+    "787.142da1d4.chunk.js.map": "/sample_card_design/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aceac212.css",
+    "static/js/main.5f267bb5.js"
+  ]
+}
